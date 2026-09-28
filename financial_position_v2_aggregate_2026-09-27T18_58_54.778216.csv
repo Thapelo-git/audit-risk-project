@@ -1,0 +1,267 @@
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,Buffalo City,BUF,720986565
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,Buffalo City,BUF,2451138230
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,Buffalo City,BUF,1423285244
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,Buffalo City,BUF,69398394
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,Buffalo City,BUF,7835452300
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,Buffalo City,BUF,13944572
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,Buffalo City,BUF,12514205305
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,Buffalo City,BUF,484115274
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,Buffalo City,BUF,30458182600
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,Buffalo City,BUF,54060071
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,Buffalo City,BUF,7247129
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,Buffalo City,BUF,711104386
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,Buffalo City,BUF,31714709460
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,Buffalo City,BUF,44228914765
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,Buffalo City,BUF,28813896
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,Buffalo City,BUF,98543035
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,Buffalo City,BUF,3066862335
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,Buffalo City,BUF,289600696
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,Buffalo City,BUF,384931441
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,Buffalo City,BUF,7057724076
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,Buffalo City,BUF,66698001
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,Buffalo City,BUF,10993173480
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,Buffalo City,BUF,79849403
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,Buffalo City,BUF,111144161
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,Buffalo City,BUF,770563000
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,Buffalo City,BUF,961556564
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,Buffalo City,BUF,11954730044
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,Buffalo City,BUF,32274184721
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,Buffalo City,BUF,10610076476
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Reserves and funds,0540,Buffalo City,BUF,21664108227
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,Buffalo City,BUF,32274184703
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,Cape Town,CPT,12706886561
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,Cape Town,CPT,4203847921
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,Cape Town,CPT,4782454801
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Current portion of non-current receivables,0150,Cape Town,CPT,1154481
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,Cape Town,CPT,480354040
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,Cape Town,CPT,172393312
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,Cape Town,CPT,172525872
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,Cape Town,CPT,22519616988
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Investments,0210,Cape Town,CPT,3895480437
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,Cape Town,CPT,574433338
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,Cape Town,CPT,65367473858
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Living resources,0250,Cape Town,CPT,303767
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,Cape Town,CPT,10340484
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,Cape Town,CPT,753653173
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,Cape Town,CPT,114313
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,Cape Town,CPT,212018343
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,Cape Town,CPT,70813817713
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,Cape Town,CPT,93333434701
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,Cape Town,CPT,2603526479
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,Cape Town,CPT,541679504
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,Cape Town,CPT,9189859334
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,Cape Town,CPT,529187742
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,Cape Town,CPT,1680743794
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,Cape Town,CPT,438345374
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,Cape Town,CPT,170795620
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,Cape Town,CPT,15154137847
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,Cape Town,CPT,4078028307
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,Cape Town,CPT,5921505859
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,Cape Town,CPT,384997569
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,Cape Town,CPT,10384531735
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,Cape Town,CPT,25538669582
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,Cape Town,CPT,67794765119
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,Cape Town,CPT,56692026839
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Reserves and funds,0540,Cape Town,CPT,5059521467
+Audited Actual,AUDA,2024,year,2024,,line_item,46,Other,0550,Cape Town,CPT,352095986
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,Cape Town,CPT,62103644292
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,City of Ekurhuleni,EKU,879043231
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,City of Ekurhuleni,EKU,8618339057
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,City of Ekurhuleni,EKU,1771448883
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Current portion of non-current receivables,0150,City of Ekurhuleni,EKU,310852674
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,City of Ekurhuleni,EKU,1720821044
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,City of Ekurhuleni,EKU,620556191
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,City of Ekurhuleni,EKU,1256242678
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,City of Ekurhuleni,EKU,15177303758
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Investments,0210,City of Ekurhuleni,EKU,118679548
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,City of Ekurhuleni,EKU,441835918
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,City of Ekurhuleni,EKU,63116029114
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,City of Ekurhuleni,EKU,82007433
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,City of Ekurhuleni,EKU,1335563256
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,City of Ekurhuleni,EKU,2225684
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,City of Ekurhuleni,EKU,4000100
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,City of Ekurhuleni,EKU,65100341053
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,City of Ekurhuleni,EKU,80277644811
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,City of Ekurhuleni,EKU,2673826309
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,City of Ekurhuleni,EKU,1200318840
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,City of Ekurhuleni,EKU,14165064615
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,City of Ekurhuleni,EKU,10189451
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,City of Ekurhuleni,EKU,1426190074
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,City of Ekurhuleni,EKU,-5385987
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,City of Ekurhuleni,EKU,2657931203
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,City of Ekurhuleni,EKU,22128134505
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,City of Ekurhuleni,EKU,5750450569
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,City of Ekurhuleni,EKU,71668231
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,City of Ekurhuleni,EKU,3941115
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,City of Ekurhuleni,EKU,5826059915
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,City of Ekurhuleni,EKU,27954194420
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,City of Ekurhuleni,EKU,52323450391
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,City of Ekurhuleni,EKU,51801796347
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Reserves and funds,0540,City of Ekurhuleni,EKU,521653945
+Audited Actual,AUDA,2024,year,2024,,line_item,46,Other,0550,City of Ekurhuleni,EKU,100
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,City of Ekurhuleni,EKU,52323450392
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,eThekwini,ETH,-335647823
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,eThekwini,ETH,1217544667
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,eThekwini,ETH,681967837
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Current portion of non-current receivables,0150,eThekwini,ETH,1619677
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,eThekwini,ETH,52729613
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,eThekwini,ETH,-89663727
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,eThekwini,ETH,29927617
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,eThekwini,ETH,1558477861
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,eThekwini,ETH,96268758
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,eThekwini,ETH,3999067822
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,eThekwini,ETH,875537
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,eThekwini,ETH,-116758258
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,eThekwini,ETH,241581476
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,eThekwini,ETH,-56414556
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,eThekwini,ETH,4164620779
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,eThekwini,ETH,5723098640
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,eThekwini,ETH,410646512
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,eThekwini,ETH,126341358
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,eThekwini,ETH,3580505551
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,eThekwini,ETH,-1855740601
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,eThekwini,ETH,94724250
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,eThekwini,ETH,-26110097
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,eThekwini,ETH,156782790
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,eThekwini,ETH,2487149763
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,eThekwini,ETH,-239459072
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,eThekwini,ETH,-14531304
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,eThekwini,ETH,317989000
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,eThekwini,ETH,63998624
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,eThekwini,ETH,2551148387
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,eThekwini,ETH,3171950253
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,eThekwini,ETH,3171950252
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,eThekwini,ETH,3171950252
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,City of Johannesburg,JHB,2165857035
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,City of Johannesburg,JHB,12730057816
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,City of Johannesburg,JHB,132189892
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Current portion of non-current receivables,0150,City of Johannesburg,JHB,136239937
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,City of Johannesburg,JHB,574592260
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,City of Johannesburg,JHB,15738936940
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Investments,0210,City of Johannesburg,JHB,826406464
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,City of Johannesburg,JHB,1033456243
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Trade and other receivables from exchange transactions,0280,City of Johannesburg,JHB,1222722
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,City of Johannesburg,JHB,84921376609
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Living resources,0250,City of Johannesburg,JHB,31036227
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,City of Johannesburg,JHB,619544866
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,City of Johannesburg,JHB,1720726710
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,City of Johannesburg,JHB,4664128001
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,City of Johannesburg,JHB,93817897842
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,City of Johannesburg,JHB,109556834782
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,City of Johannesburg,JHB,1519202800
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,City of Johannesburg,JHB,1846971617
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,City of Johannesburg,JHB,23604508315
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,City of Johannesburg,JHB,432542767
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,City of Johannesburg,JHB,725374799
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,City of Johannesburg,JHB,18130000
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,City of Johannesburg,JHB,132115681
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,City of Johannesburg,JHB,28278845979
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,City of Johannesburg,JHB,18872712589
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,City of Johannesburg,JHB,1052977840
+Audited Actual,AUDA,2024,year,2024,,line_item,39,Long term Trade and other Payables,0470,City of Johannesburg,JHB,539518820
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,City of Johannesburg,JHB,4449525359
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,City of Johannesburg,JHB,24914734608
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,City of Johannesburg,JHB,53193580587
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,City of Johannesburg,JHB,56363254195
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,City of Johannesburg,JHB,56640977976
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,City of Johannesburg,JHB,56640977976
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,Mangaung,MAN,-170178446
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,Mangaung,MAN,1857757445
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,Mangaung,MAN,453736966
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Current portion of non-current receivables,0150,Mangaung,MAN,828518237
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,Mangaung,MAN,648369769
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,Mangaung,MAN,4363752127
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,Mangaung,MAN,186280825
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,Mangaung,MAN,8168236923
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Investments,0210,Mangaung,MAN,167027
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,Mangaung,MAN,1590665600
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,Mangaung,MAN,17619221806
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,Mangaung,MAN,258244752
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,Mangaung,MAN,133633871
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,Mangaung,MAN,9009071
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,Mangaung,MAN,2253559152
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,Mangaung,MAN,21864501279
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,Mangaung,MAN,30032738202
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,Mangaung,MAN,-287023841
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,Mangaung,MAN,194472113
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,Mangaung,MAN,5478712687
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,Mangaung,MAN,193594528
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,Mangaung,MAN,826488504
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,Mangaung,MAN,3264714858
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,Mangaung,MAN,1298823369
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,Mangaung,MAN,10969782218
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,Mangaung,MAN,952762572
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,Mangaung,MAN,277988595
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,Mangaung,MAN,1375875408
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,Mangaung,MAN,2606626575
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,Mangaung,MAN,13576408793
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,Mangaung,MAN,16456329409
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,Mangaung,MAN,12763690851
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Reserves and funds,0540,Mangaung,MAN,5009167741
+Audited Actual,AUDA,2024,year,2024,,line_item,46,Other,0550,Mangaung,MAN,100
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,Mangaung,MAN,17772858692
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,Nelson Mandela Bay,NMA,4429660484
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,Nelson Mandela Bay,NMA,5250399805
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,Nelson Mandela Bay,NMA,598392510
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,Nelson Mandela Bay,NMA,163397052
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,Nelson Mandela Bay,NMA,29774778
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,Nelson Mandela Bay,NMA,8860709
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,Nelson Mandela Bay,NMA,10480485338
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,Nelson Mandela Bay,NMA,138357004
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Trade and other receivables from exchange transactions,0280,Nelson Mandela Bay,NMA,135531964
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,Nelson Mandela Bay,NMA,19596577473
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,Nelson Mandela Bay,NMA,226440888
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,Nelson Mandela Bay,NMA,56783988
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,Nelson Mandela Bay,NMA,50314
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,Nelson Mandela Bay,NMA,20153741631
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,Nelson Mandela Bay,NMA,30634226969
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,Nelson Mandela Bay,NMA,213697818
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,Nelson Mandela Bay,NMA,157184509
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,Nelson Mandela Bay,NMA,4451568322
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,Nelson Mandela Bay,NMA,336836899
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,Nelson Mandela Bay,NMA,389895787
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,Nelson Mandela Bay,NMA,374524000
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,Nelson Mandela Bay,NMA,5923707335
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,Nelson Mandela Bay,NMA,934071669
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,Nelson Mandela Bay,NMA,801101836
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,Nelson Mandela Bay,NMA,1889391703
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,Nelson Mandela Bay,NMA,3624565208
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,Nelson Mandela Bay,NMA,9548272543
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,Nelson Mandela Bay,NMA,21085954426
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,Nelson Mandela Bay,NMA,20524621418
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Reserves and funds,0540,Nelson Mandela Bay,NMA,561333029
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,Nelson Mandela Bay,NMA,21085954447
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Cash and cash equivalents,0120,City of Tshwane,TSH,-5246160345
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Trade and other receivables from exchange transactions,0130,City of Tshwane,TSH,7289235116
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Receivables from non-exchange transactions,0140,City of Tshwane,TSH,592306591
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Inventory,0160,City of Tshwane,TSH,616955296
+Audited Actual,AUDA,2024,year,2024,,line_item,9,VAT receivable,0170,City of Tshwane,TSH,2243055004
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Other current assets,0180,City of Tshwane,TSH,420600449
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Non current assets,0190,City of Tshwane,TSH,5915992111
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Investments,0210,City of Tshwane,TSH,1796337519
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Investment property,0220,City of Tshwane,TSH,1098634939
+Audited Actual,AUDA,2024,year,2024,,line_item,15,"Property, plant and equipment",0230,City of Tshwane,TSH,48913583949
+Audited Actual,AUDA,2024,year,2024,,line_item,16,Biological assets,0240,City of Tshwane,TSH,684
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Heritage assets,0260,City of Tshwane,TSH,3370069071
+Audited Actual,AUDA,2024,year,2024,,line_item,19,Intangible assets,0270,City of Tshwane,TSH,713778853
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Non-current receivables from non-exchange transactions,0290,City of Tshwane,TSH,653913026
+Audited Actual,AUDA,2024,year,2024,,line_item,22,Other non-current assets,0300,City of Tshwane,TSH,880833780
+Audited Actual,AUDA,2024,year,2024,,line_item,23,LIABILITIES,0310,City of Tshwane,TSH,57427151821
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Current liabilities,0320,City of Tshwane,TSH,63343143932
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Financial liabilities,0360,City of Tshwane,TSH,466840286
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Consumer deposits,0370,City of Tshwane,TSH,1182810251
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Trade and other payables from exchange transactions,0380,City of Tshwane,TSH,17049052762
+Audited Actual,AUDA,2024,year,2024,,line_item,31,Trade and other payables from non-exchange transactions,0390,City of Tshwane,TSH,215347141
+Audited Actual,AUDA,2024,year,2024,,line_item,32,Provision,0400,City of Tshwane,TSH,1180848793
+Audited Actual,AUDA,2024,year,2024,,line_item,33,VAT payable,0410,City of Tshwane,TSH,-333619921
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Other current liabilities,0420,City of Tshwane,TSH,-747733427
+Audited Actual,AUDA,2024,year,2024,,line_item,35,TOTAL LIABILITIES,0430,City of Tshwane,TSH,19013545885
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Financial liabilities,0450,City of Tshwane,TSH,10314595559
+Audited Actual,AUDA,2024,year,2024,,line_item,38,Provision,0460,City of Tshwane,TSH,581283067
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Other non-current liabilities,0480,City of Tshwane,TSH,1724710219
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Total non current liabilities,0490,City of Tshwane,TSH,12620588845
+Audited Actual,AUDA,2024,year,2024,,line_item,42,TOTAL LIABILITIES,0500,City of Tshwane,TSH,31634134730
+Audited Actual,AUDA,2024,year,2024,,line_item,43,NET ASSETS,0510,City of Tshwane,TSH,31709009202
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Accumulated surplus/(deficit),0530,City of Tshwane,TSH,29563433228
+Audited Actual,AUDA,2024,year,2024,,line_item,46,TOTAL COMMUNITY WEALTH/EQUITY,0560,City of Tshwane,TSH,29563433228

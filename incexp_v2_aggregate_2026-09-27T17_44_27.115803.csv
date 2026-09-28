@@ -1,0 +1,332 @@
+amount_type.label,amount_type.code,financial_period.period,period_length.length,financial_year_end.year,item.composition,item.return_form_structure,item.position_in_return_form,item.label,item.code,demarcation.label,demarcation.code,amount.sum
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,Buffalo City,BUF,2385331711
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,Buffalo City,BUF,918430493
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,Buffalo City,BUF,559118342
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,Buffalo City,BUF,470948277
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,Buffalo City,BUF,123512397
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Agency services,0800,Buffalo City,BUF,19547062
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,Buffalo City,BUF,389109943
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,Buffalo City,BUF,51629980
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,Buffalo City,BUF,23226131
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Development Charges,1590,Buffalo City,BUF,258751
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,Buffalo City,BUF,57205682
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,Buffalo City,BUF,2127633955
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,Buffalo City,BUF,65437669
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,Buffalo City,BUF,13697832
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,Buffalo City,BUF,1382876044
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,Buffalo City,BUF,741926000
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,Buffalo City,BUF,113458
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,Buffalo City,BUF,23418732
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,Buffalo City,BUF,9353422459
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,Buffalo City,BUF,2703201023
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,Buffalo City,BUF,68967379
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,Buffalo City,BUF,2252355443
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,Buffalo City,BUF,336963304
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,Buffalo City,BUF,1336717876
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,Buffalo City,BUF,1944481052
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,Buffalo City,BUF,46210625
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,Buffalo City,BUF,850969807
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,Buffalo City,BUF,131530967
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,Buffalo City,BUF,651640382
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,Buffalo City,BUF,299177284
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,Buffalo City,BUF,148482587
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,Buffalo City,BUF,10770697729
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,Buffalo City,BUF,-1417275270
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,Buffalo City,BUF,855177516
+Audited Actual,AUDA,2024,year,2024,,line_item,49,Transfers and subsidies - capital (in-kind),4700,Buffalo City,BUF,22409060
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,Buffalo City,BUF,-539688694
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,Buffalo City,BUF,-539688694
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,Buffalo City,BUF,-539688694
+Audited Actual,AUDA,2024,year,2024,,line_item,56,Share of Surplus/Deficit attributable to Associate,5400,Buffalo City,BUF,-40750306
+Audited Actual,AUDA,2024,year,2024,,line_item,57,Intercompany/Parent subsidiary transactions,5500,Buffalo City,BUF,44854162
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,Buffalo City,BUF,-535584838
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,Cape Town,CPT,19900057053
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,Cape Town,CPT,4842657038
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,Cape Town,CPT,2416263971
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,Cape Town,CPT,1349205329
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,Cape Town,CPT,709652956
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Agency services,0800,Cape Town,CPT,278169611
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,Cape Town,CPT,324025456
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,Cape Town,CPT,1593286264
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,Cape Town,CPT,673605328
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Licence or permits,1500,Cape Town,CPT,542817
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Development Charges,1590,Cape Town,CPT,265402151
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,Cape Town,CPT,438358447
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,Cape Town,CPT,11981350782
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Surcharges and Taxes,1900,Cape Town,CPT,365452479
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,Cape Town,CPT,1910359037
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,Cape Town,CPT,49785064
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,Cape Town,CPT,6719779473
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,Cape Town,CPT,137912304
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,Cape Town,CPT,2639290000
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,Cape Town,CPT,152916500
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,Cape Town,CPT,5093415426
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,Cape Town,CPT,61841487486
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,Cape Town,CPT,17201029675
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,Cape Town,CPT,183029547
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,Cape Town,CPT,13941385922
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,Cape Town,CPT,6713947674
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,Cape Town,CPT,646452470
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,Cape Town,CPT,3436475529
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,Cape Town,CPT,829972040
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,Cape Town,CPT,9604653287
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,Cape Town,CPT,326622402
+Audited Actual,AUDA,2024,year,2024,,line_item,42,Irrecoverable debts written off,4000,Cape Town,CPT,2223824770
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,Cape Town,CPT,2814284539
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,Cape Town,CPT,11944240
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,Cape Town,CPT,380301689
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,Cape Town,CPT,58313923784
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,Cape Town,CPT,3527563702
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,Cape Town,CPT,2535548140
+Audited Actual,AUDA,2024,year,2024,,line_item,49,Transfers and subsidies - capital (in-kind),4700,Cape Town,CPT,117300
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,Cape Town,CPT,6063229142
+Audited Actual,AUDA,2024,year,2024,,line_item,51,Income Tax,4900,Cape Town,CPT,-46425381
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,Cape Town,CPT,6109654523
+Audited Actual,AUDA,2024,year,2024,,line_item,54,Share of Surplus/Deficit attributable to Minorities,5200,Cape Town,CPT,64044790
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,Cape Town,CPT,6173699313
+Audited Actual,AUDA,2024,year,2024,,line_item,57,Intercompany/Parent subsidiary transactions,5500,Cape Town,CPT,354488906
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,Cape Town,CPT,6528188219
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,City of Ekurhuleni,EKU,19872391681
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,City of Ekurhuleni,EKU,5475763382
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,City of Ekurhuleni,EKU,4359477900
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,City of Ekurhuleni,EKU,1541798940
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,City of Ekurhuleni,EKU,504912208
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,City of Ekurhuleni,EKU,1086176608
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,City of Ekurhuleni,EKU,169511554
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Dividends,1200,City of Ekurhuleni,EKU,87869
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,City of Ekurhuleni,EKU,158106308
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Development Charges,1590,City of Ekurhuleni,EKU,136433736
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,City of Ekurhuleni,EKU,48669785
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,City of Ekurhuleni,EKU,8823217849
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,City of Ekurhuleni,EKU,681641357
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,City of Ekurhuleni,EKU,332862451
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,City of Ekurhuleni,EKU,6287329108
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,City of Ekurhuleni,EKU,316821029
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,City of Ekurhuleni,EKU,1839016000
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,City of Ekurhuleni,EKU,892881
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,City of Ekurhuleni,EKU,51635110646
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,City of Ekurhuleni,EKU,10147808195
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,City of Ekurhuleni,EKU,158376569
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,City of Ekurhuleni,EKU,17211167586
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,City of Ekurhuleni,EKU,6317446985
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,City of Ekurhuleni,EKU,5789731685
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,City of Ekurhuleni,EKU,2905773898
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,City of Ekurhuleni,EKU,1463509927
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,City of Ekurhuleni,EKU,7099842898
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,City of Ekurhuleni,EKU,649410739
+Audited Actual,AUDA,2024,year,2024,,line_item,42,Irrecoverable debts written off,4000,City of Ekurhuleni,EKU,98820858
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,City of Ekurhuleni,EKU,1579477450
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,City of Ekurhuleni,EKU,6706613
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,City of Ekurhuleni,EKU,20090425
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,City of Ekurhuleni,EKU,53448163828
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,City of Ekurhuleni,EKU,-1813053182
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,City of Ekurhuleni,EKU,2366770939
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,City of Ekurhuleni,EKU,553717757
+Audited Actual,AUDA,2024,year,2024,,line_item,51,Income Tax,4900,City of Ekurhuleni,EKU,-11140217
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,City of Ekurhuleni,EKU,564857974
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,City of Ekurhuleni,EKU,564857974
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,City of Ekurhuleni,EKU,564857974
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,eThekwini,ETH,17238235419
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,eThekwini,ETH,7198976527
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,eThekwini,ETH,1688698311
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,eThekwini,ETH,1010213702
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,eThekwini,ETH,300750430
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Agency services,0800,eThekwini,ETH,28719363
+Audited Actual,AUDA,2024,year,2024,,line_item,8,Interest - Deemed Interest,0900,eThekwini,ETH,3794457
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,eThekwini,ETH,1440889232
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,eThekwini,ETH,886900716
+Audited Actual,AUDA,2024,year,2024,,line_item,12,Rent on Land,1300,eThekwini,ETH,578726
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,eThekwini,ETH,1014166419
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Licence or permits,1500,eThekwini,ETH,5236692
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Development Charges,1590,eThekwini,ETH,14587715
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,eThekwini,ETH,305150626
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,eThekwini,ETH,12580864123
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Surcharges and Taxes,1900,eThekwini,ETH,438120054
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,eThekwini,ETH,232424759
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,eThekwini,ETH,47620842
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,eThekwini,ETH,5781190625
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,eThekwini,ETH,628306701
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,eThekwini,ETH,3557475000
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,eThekwini,ETH,26161784
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,eThekwini,ETH,440197053
+Audited Actual,AUDA,2024,year,2024,,line_item,30,Discontinued Operations,2800,eThekwini,ETH,41036864
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,eThekwini,ETH,54910296140
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,eThekwini,ETH,13414643376
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,eThekwini,ETH,142140179
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,eThekwini,ETH,14847181864
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,eThekwini,ETH,3682717370
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,eThekwini,ETH,6689344835
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,eThekwini,ETH,2847344339
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,eThekwini,ETH,1038241834
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,eThekwini,ETH,6720147743
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,eThekwini,ETH,910816585
+Audited Actual,AUDA,2024,year,2024,,line_item,42,Irrecoverable debts written off,4000,eThekwini,ETH,10747
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,eThekwini,ETH,2915614456
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,eThekwini,ETH,25507544
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,eThekwini,ETH,2255012707
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,eThekwini,ETH,55488723579
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,eThekwini,ETH,-578427439
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,eThekwini,ETH,4148681116
+Audited Actual,AUDA,2024,year,2024,,line_item,49,Transfers and subsidies - capital (in-kind),4700,eThekwini,ETH,137241396
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,eThekwini,ETH,3707495073
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,eThekwini,ETH,3707495073
+Audited Actual,AUDA,2024,year,2024,,line_item,53,Share of Surplus/Deficit attributable to Joint Venture,5100,eThekwini,ETH,-12633606
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,eThekwini,ETH,3694861467
+Audited Actual,AUDA,2024,year,2024,,line_item,57,Intercompany/Parent subsidiary transactions,5500,eThekwini,ETH,461107608
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,eThekwini,ETH,4155969075
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,City of Johannesburg,JHB,18535422515
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,City of Johannesburg,JHB,9545230762
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,City of Johannesburg,JHB,6636484396
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,City of Johannesburg,JHB,2780737708
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,City of Johannesburg,JHB,438579949
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Agency services,0800,City of Johannesburg,JHB,969999057
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,City of Johannesburg,JHB,936572482
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,City of Johannesburg,JHB,12552410
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,City of Johannesburg,JHB,307432503
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,City of Johannesburg,JHB,1562300130
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,City of Johannesburg,JHB,16798944349
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Surcharges and Taxes,1900,City of Johannesburg,JHB,312261702
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,City of Johannesburg,JHB,175591388
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,City of Johannesburg,JHB,7867707000
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,City of Johannesburg,JHB,211826294
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,City of Johannesburg,JHB,4078154031
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,City of Johannesburg,JHB,19954304
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,City of Johannesburg,JHB,71189750980
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,City of Johannesburg,JHB,19363762050
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,City of Johannesburg,JHB,187818975
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,City of Johannesburg,JHB,25161992938
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,City of Johannesburg,JHB,8739260116
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,City of Johannesburg,JHB,4715477516
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,City of Johannesburg,JHB,2954332701
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,City of Johannesburg,JHB,63703669
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,City of Johannesburg,JHB,13620397594
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,City of Johannesburg,JHB,63743759
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,City of Johannesburg,JHB,74870489318
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,City of Johannesburg,JHB,-3680738338
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,City of Johannesburg,JHB,2808954753
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,City of Johannesburg,JHB,-871783585
+Audited Actual,AUDA,2024,year,2024,,line_item,51,Income Tax,4900,City of Johannesburg,JHB,-594059728
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,City of Johannesburg,JHB,-277723857
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,City of Johannesburg,JHB,-277723857
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,City of Johannesburg,JHB,-277723857
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,Mangaung,MAN,3281396355
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,Mangaung,MAN,1316837904
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,Mangaung,MAN,475633600
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,Mangaung,MAN,182417091
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,Mangaung,MAN,38142941
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,Mangaung,MAN,575220750
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,Mangaung,MAN,79385587
+Audited Actual,AUDA,2024,year,2024,,line_item,11,Dividends,1200,Mangaung,MAN,8036
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,Mangaung,MAN,54518338
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,Mangaung,MAN,36106050
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,Mangaung,MAN,1448159126
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,Mangaung,MAN,95525104
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,Mangaung,MAN,1337688
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,Mangaung,MAN,1235678098
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,Mangaung,MAN,172226079
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,Mangaung,MAN,405248000
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,Mangaung,MAN,49142142
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,Mangaung,MAN,8250015
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,Mangaung,MAN,9455232904
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,Mangaung,MAN,2461979161
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,Mangaung,MAN,74551839
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,Mangaung,MAN,3032518088
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,Mangaung,MAN,1045074712
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,Mangaung,MAN,1017115182
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,Mangaung,MAN,853273681
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,Mangaung,MAN,141329111
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,Mangaung,MAN,784113630
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,Mangaung,MAN,4992389
+Audited Actual,AUDA,2024,year,2024,,line_item,42,Irrecoverable debts written off,4000,Mangaung,MAN,692314886
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,Mangaung,MAN,474063107
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,Mangaung,MAN,42113414
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,Mangaung,MAN,55482355
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,Mangaung,MAN,10678921555
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,Mangaung,MAN,-1223688651
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,Mangaung,MAN,606718320
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,Mangaung,MAN,-616970331
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,Mangaung,MAN,-616970331
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,Mangaung,MAN,-616970331
+Audited Actual,AUDA,2024,year,2024,,line_item,57,Intercompany/Parent subsidiary transactions,5500,Mangaung,MAN,381290746
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,Mangaung,MAN,-235679585
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,Nelson Mandela Bay,NMA,4955284237
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,Nelson Mandela Bay,NMA,3048560647
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,Nelson Mandela Bay,NMA,807631180
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,Nelson Mandela Bay,NMA,290782749
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,Nelson Mandela Bay,NMA,78046128
+Audited Actual,AUDA,2024,year,2024,,line_item,7,Agency services,0800,Nelson Mandela Bay,NMA,3902484
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,Nelson Mandela Bay,NMA,1208960024
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,Nelson Mandela Bay,NMA,385770395
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,Nelson Mandela Bay,NMA,34019273
+Audited Actual,AUDA,2024,year,2024,,line_item,14,Licence or permits,1500,Nelson Mandela Bay,NMA,21519052
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,Nelson Mandela Bay,NMA,35968100
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,Nelson Mandela Bay,NMA,2875600155
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,Nelson Mandela Bay,NMA,97506956
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,Nelson Mandela Bay,NMA,707
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,Nelson Mandela Bay,NMA,1710717446
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,Nelson Mandela Bay,NMA,783477999
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,Nelson Mandela Bay,NMA,1320931
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,Nelson Mandela Bay,NMA,16339068463
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,Nelson Mandela Bay,NMA,3928614628
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,Nelson Mandela Bay,NMA,82053372
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,Nelson Mandela Bay,NMA,5635672552
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,Nelson Mandela Bay,NMA,512291095
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,Nelson Mandela Bay,NMA,661256466
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,Nelson Mandela Bay,NMA,887876054
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,Nelson Mandela Bay,NMA,121959575
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,Nelson Mandela Bay,NMA,981883329
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,Nelson Mandela Bay,NMA,87010939
+Audited Actual,AUDA,2024,year,2024,,line_item,42,Irrecoverable debts written off,4000,Nelson Mandela Bay,NMA,3539407384
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,Nelson Mandela Bay,NMA,675082772
+Audited Actual,AUDA,2024,year,2024,,line_item,44,Disposal of Fixed and Intangible Assets,4200,Nelson Mandela Bay,NMA,1738712
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,Nelson Mandela Bay,NMA,372292519
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,Nelson Mandela Bay,NMA,17487139397
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,Nelson Mandela Bay,NMA,-1148070934
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,Nelson Mandela Bay,NMA,1081005116
+Audited Actual,AUDA,2024,year,2024,,line_item,49,Transfers and subsidies - capital (in-kind),4700,Nelson Mandela Bay,NMA,52494333
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,Nelson Mandela Bay,NMA,-14571485
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,Nelson Mandela Bay,NMA,-14571485
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,Nelson Mandela Bay,NMA,-14571485
+Audited Actual,AUDA,2024,year,2024,,line_item,57,Intercompany/Parent subsidiary transactions,5500,Nelson Mandela Bay,NMA,6356532
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,Nelson Mandela Bay,NMA,-8214953
+Audited Actual,AUDA,2024,year,2024,,line_item,2,Service charges - Electricity,0300,City of Tshwane,TSH,15768773598
+Audited Actual,AUDA,2024,year,2024,,line_item,3,Service charges - Water,0400,City of Tshwane,TSH,5773800494
+Audited Actual,AUDA,2024,year,2024,,line_item,4,Service charges - Waste Water Management,0500,City of Tshwane,TSH,1706476875
+Audited Actual,AUDA,2024,year,2024,,line_item,5,Service charges - Waste Management,0600,City of Tshwane,TSH,1904007217
+Audited Actual,AUDA,2024,year,2024,,line_item,6,Sale of Goods and Rendering of Services,0700,City of Tshwane,TSH,417562323
+Audited Actual,AUDA,2024,year,2024,,line_item,9,Interest earned from Receivables,1000,City of Tshwane,TSH,2098388015
+Audited Actual,AUDA,2024,year,2024,,line_item,10,Interest earned from Current and Non Current Assets,1100,City of Tshwane,TSH,240960241
+Audited Actual,AUDA,2024,year,2024,,line_item,12,Rent on Land,1300,City of Tshwane,TSH,50872192
+Audited Actual,AUDA,2024,year,2024,,line_item,13,Rental from Fixed Assets,1400,City of Tshwane,TSH,175208154
+Audited Actual,AUDA,2024,year,2024,,line_item,17,Development Charges,1590,City of Tshwane,TSH,171068647
+Audited Actual,AUDA,2024,year,2024,,line_item,18,Operational Revenue,1600,City of Tshwane,TSH,373371754
+Audited Actual,AUDA,2024,year,2024,,line_item,20,Property rates,1800,City of Tshwane,TSH,9875872847
+Audited Actual,AUDA,2024,year,2024,,line_item,21,Surcharges and Taxes,1900,City of Tshwane,TSH,311634244
+Audited Actual,AUDA,2024,year,2024,,line_item,22,"Fines, penalties and forfeits",2000,City of Tshwane,TSH,241157889
+Audited Actual,AUDA,2024,year,2024,,line_item,23,Licences or permits,2100,City of Tshwane,TSH,43618141
+Audited Actual,AUDA,2024,year,2024,,line_item,24,Transfer and subsidies - Operational,2200,City of Tshwane,TSH,4906485413
+Audited Actual,AUDA,2024,year,2024,,line_item,25,Interest Receivables,2300,City of Tshwane,TSH,42909
+Audited Actual,AUDA,2024,year,2024,,line_item,26,Fuel Levy,2400,City of Tshwane,TSH,1628341000
+Audited Actual,AUDA,2024,year,2024,,line_item,28,Gains on Disposal of Fixed and Intangible Assets,2600,City of Tshwane,TSH,-5778683
+Audited Actual,AUDA,2024,year,2024,,line_item,29,Other Gains,2700,City of Tshwane,TSH,181183489
+Audited Actual,AUDA,2024,year,2024,,subtotal,31,Total Revenue (excluding capital transfers and contributions),2900,City of Tshwane,TSH,45863046759
+Audited Actual,AUDA,2024,year,2024,,line_item,33,Employee related costs,3100,City of Tshwane,TSH,11596499966
+Audited Actual,AUDA,2024,year,2024,,line_item,34,Remuneration of councillors,3200,City of Tshwane,TSH,133389734
+Audited Actual,AUDA,2024,year,2024,,line_item,35,Bulk purchases - electricity,3300,City of Tshwane,TSH,13376426686
+Audited Actual,AUDA,2024,year,2024,,line_item,36,Inventory consumed,3400,City of Tshwane,TSH,4660848236
+Audited Actual,AUDA,2024,year,2024,,line_item,37,Debt impairment,3500,City of Tshwane,TSH,4532427740
+Audited Actual,AUDA,2024,year,2024,,line_item,38,"Depreciation, Amortisation and Impairment",3600,City of Tshwane,TSH,2151016971
+Audited Actual,AUDA,2024,year,2024,,line_item,39,"Interest, Dividends and Rent on Land",3700,City of Tshwane,TSH,2349678794
+Audited Actual,AUDA,2024,year,2024,,line_item,40,Contracted services,3800,City of Tshwane,TSH,3794436972
+Audited Actual,AUDA,2024,year,2024,,line_item,41,Transfers and subsidies,3900,City of Tshwane,TSH,99854090
+Audited Actual,AUDA,2024,year,2024,,line_item,43,Operational Cost and Other Cost,4100,City of Tshwane,TSH,2452916453
+Audited Actual,AUDA,2024,year,2024,,line_item,45,Other Losses,4300,City of Tshwane,TSH,163947847
+Audited Actual,AUDA,2024,year,2024,,subtotal,46,Total Expenditure,4400,City of Tshwane,TSH,45311443489
+Audited Actual,AUDA,2024,year,2024,,subtotal,47,Surplus/(Deficit),4500,City of Tshwane,TSH,551603270
+Audited Actual,AUDA,2024,year,2024,,line_item,48,Transfers and subsidies - capital (monetary allocations),4600,City of Tshwane,TSH,1531511318
+Audited Actual,AUDA,2024,year,2024,,line_item,49,Transfers and subsidies - capital (in-kind),4700,City of Tshwane,TSH,6704994
+Audited Actual,AUDA,2024,year,2024,,subtotal,50,Surplus/(Deficit) after capital transfers and contributions,4800,City of Tshwane,TSH,2089819582
+Audited Actual,AUDA,2024,year,2024,,subtotal,52,Surplus/(Deficit) after income tax,5000,City of Tshwane,TSH,2089819582
+Audited Actual,AUDA,2024,year,2024,,line_item,53,Share of Surplus/Deficit attributable to Joint Venture,5100,City of Tshwane,TSH,-55756392
+Audited Actual,AUDA,2024,year,2024,,subtotal,55,Surplus/(Deficit) attributable to municipality,5300,City of Tshwane,TSH,2034063190
+Audited Actual,AUDA,2024,year,2024,,subtotal,58,Surplus/(Deficit) for the year,5600,City of Tshwane,TSH,2034063190
