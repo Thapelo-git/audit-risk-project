@@ -1,0 +1,17 @@
+column,role,dtype,non_null_count,missing_pct,n_unique,example_value
+demarcation.code,identifier/target,object,1434,0.0,257,BUF
+financial_year_end.year,identifier/target,int64,1434,0.0,6,2018
+total_revenue,feature,float64,1434,0.0,1427,5504777560.0
+total_expenditure,feature,float64,1434,0.0,1429,6105514561.0
+operating_surplus,feature,float64,1434,0.0,1429,-600737001.0
+cash_coverage_ratio,feature,float64,1433,0.1,1415,3.581674279132065
+collection_rate,feature,float64,1314,8.4,657,1.0
+debtor_days,feature,float64,1434,0.0,784,0.0
+repairs_maintenance_ratio,feature,float64,1433,0.1,1139,0.0
+irregular_expenditure_ratio,feature,float64,1433,0.1,1357,0.03493900045094
+grant_dependency,feature,float64,1434,0.0,680,0.0
+prior_audit_outcome,feature,object,1434,0.0,2,at_risk
+prior_audit_opinion_raw,identifier/target,object,1434,0.0,6,qualified
+Name,identifier/target,object,1434,0.0,257,Buffalo City
+target_next_year,identifier/target,object,1434,0.0,2,at_risk
+target_opinion_raw,identifier/target,object,1434,0.0,6,qualified
